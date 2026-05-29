@@ -8,23 +8,23 @@ Cybersecurity Student • Pentesting • Linux • CTF Player
 
 ## About Me
 
-- Arch Linux user
-- Learning Offensive Security
-- DockerLabs & HackTheBox Player
-- Interested in Web Exploitation & Privilege Escalation
+* Arch Linux user
+* Learning Offensive Security
+* DockerLabs & HackTheBox Player
+* Interested in Web Exploitation & Privilege Escalation
 
 ---
 
 ## Skills
 
-- Linux
-- Nmap
-- Gobuster
-- Hydra
-- Burp Suite
-- SQL Injection
-- Privilege Escalation
-- Git & GitHub
+* Linux
+* Nmap
+* Gobuster
+* Hydra
+* Burp Suite
+* SQL Injection
+* Privilege Escalation
+* Git & GitHub
 
 ---
 
@@ -46,6 +46,14 @@ Repositorio orientado a laboratorios y máquinas de HackTheBox.
 
 ---
 
+## 🚩 CTF Challenges
+
+Repositorio nuevo donde subo desafíos CTF, writeups y soluciones de diferentes plataformas.
+
+🔗 [Ir al repositorio CTF Challenges](https://github.com/BlckM00n/CTF)
+
+---
+
 ## Tools
 
 <p align="center">
@@ -53,5 +61,3 @@ Repositorio orientado a laboratorios y máquinas de HackTheBox.
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,docker,vscode" />
 
 </p>
-
----
