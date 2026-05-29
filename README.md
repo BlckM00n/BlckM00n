@@ -50,7 +50,7 @@ Repositorio orientado a laboratorios y máquinas de HackTheBox.
 
 Repositorio nuevo donde subo desafíos CTF, writeups y soluciones de diferentes plataformas.
 
-🔗 [Ir al repositorio CTF Challenges](https://github.com/BlckM00n/CTF)
+🔗 [Ir al repositorio CTF Challenges](https://github.com/BlckM00n/Challenge-CTFs)
 
 ---
 
