@@ -28,11 +28,21 @@ Cybersecurity Student • Pentesting • Linux • CTF Player
 
 ---
 
-## Labs & Writeups
+# 📚 Repositories
 
-- DockerLabs
-- HackTheBox
-- Personal Pentesting Notes
+## 🐳 DockerLabs
+
+Repositorio dedicado a máquinas de DockerLabs, writeups y notas de pentesting.
+
+🔗 [Ir al repositorio DockerLabs](https://github.com/BlckM00n/Dockers)
+
+---
+
+## 🎯 HackTheBox
+
+Repositorio orientado a laboratorios y máquinas de HackTheBox.
+
+🔗 [Ir al repositorio HackTheBox](https://github.com/BlckM00n/HackTheBox)
 
 ---
 
