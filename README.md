@@ -1,63 +1,52 @@
-<h1 align="center">Hi, I'm BlckM00n 👋</h1>
+<div align="center">
 
-<p align="center">
-Cybersecurity Student • Pentesting • Linux • CTF Player
-</p>
+# Hola, soy BlckM00n
 
----
+### 🔐 Cybersecurity Enthusiast | 🎯 CTF Player | 💻 Network Engineering Student
 
-## About Me
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlckM00n)
 
-* Arch Linux user
-* Learning Offensive Security
-* DockerLabs & HackTheBox Player
-* Interested in Web Exploitation & Privilege Escalation
+</div>
 
 ---
 
-## Skills
+## 🧑‍💻 Sobre Mí
 
-* Linux
-* Nmap
-* Gobuster
-* Hydra
-* Burp Suite
-* SQL Injection
-* Privilege Escalation
-* Git & GitHub
+Estudiante de **Ingeniería en Conectividad y Redes** en Chile, con interés en **ciberseguridad ofensiva, pentesting y CTFs**.
 
----
+Me encuentro en constante aprendizaje en áreas como redes, sistemas Linux y seguridad informática, con enfoque en práctica mediante laboratorios y plataformas CTF.
 
-# 📚 Repositories
-
-## 🐳 DockerLabs
-
-Repositorio dedicado a máquinas de DockerLabs, writeups y notas de pentesting.
-
-🔗 [Ir al repositorio DockerLabs](https://github.com/BlckM00n/Dockers)
+- 🎯 Enfocado en CTFs y laboratorios prácticos
+- 🐧 Usuario de Arch Linux
+- 🔐 Interesado en pentesting y seguridad ofensiva
+- 📚 Documentando mis aprendizajes en writeups
+- 🌱 Aprendiz constante en redes y seguridad
 
 ---
 
-## 🎯 HackTheBox
+## 📚 Repositories
 
-Repositorio orientado a laboratorios y máquinas de HackTheBox.
+### 🐳 DockerLabs
+Writeups y notas de máquinas de DockerLabs enfocados en pentesting práctico.
 
-🔗 [Ir al repositorio HackTheBox](https://github.com/BlckM00n/HackTheBox)
-
----
-
-## 🚩 CTF Challenges
-
-Repositorio nuevo donde subo desafíos CTF, writeups y soluciones de diferentes plataformas.
-
-🔗 [Ir al repositorio CTF Challenges](https://github.com/BlckM00n/Challenge-CTFs)
+🔗 https://github.com/BlckM00n/Dockers
 
 ---
 
-## Tools
+### 🎯 HackTheBox
+Documentación de máquinas y laboratorios de HackTheBox.
 
-<p align="center">
+🔗 https://github.com/BlckM00n/HackTheBox
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,docker,vscode" />
+---
 
-</p>
+### 🚩 CTF Challenges
+Resolución de desafíos CTF de distintas plataformas con enfoque en aprendizaje práctico.
+
+🔗 https://github.com/BlckM00n/CTF-Challenges
+
+---
+
+## ⚠️ Disclaimer
+
+Todo el contenido publicado tiene fines educativos y de práctica en entornos controlados.
