@@ -29,7 +29,7 @@ Me encuentro en constante aprendizaje en áreas como redes, sistemas Linux y seg
 ### 🐳 DockerLabs
 Writeups y notas de máquinas de DockerLabs enfocados en pentesting práctico.
 
-🔗 https://github.com/BlckM00n/Dockers
+🔗 https://github.com/BlckM00n/DockerLabs
 
 ---
 
