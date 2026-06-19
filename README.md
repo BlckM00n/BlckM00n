@@ -2,7 +2,7 @@
 
 # Hola, soy BlckM00n
 
-### 🔐 Cybersecurity Enthusiast | 🎯 CTF Player | 💻 Network Engineering Student
+### 🌙 BlckM00n | 🔐 Pentesting & CTFs | 🐧 Arch Linux | Gamer ocasional | 🇨🇱 Chile
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlckM00n)
 
